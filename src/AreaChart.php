@@ -24,7 +24,7 @@ class AreaChart extends Card
      *
      * @return string
      */
-    public function component()
+    public function component(): string
     {
         return 'stripe-chart';
     }

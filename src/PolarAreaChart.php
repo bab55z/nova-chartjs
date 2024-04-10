@@ -24,7 +24,7 @@ class PolarAreaChart extends Card
      *
      * @return string
      */
-    public function component()
+    public function component(): string
     {
         return 'polar-area-chart';
     }

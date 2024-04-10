@@ -25,7 +25,7 @@ class StackedChart extends Card
      *
      * @return string
      */
-    public function component()
+    public function component(): string
     {
         return 'stacked-chart';
     }
