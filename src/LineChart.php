@@ -11,7 +11,7 @@ class LineChart extends Card
      *
      * @var string
      */
-    public $width = 'full';
+    public string $width = 'full';
 
     public function __construct($component = null)
     {
